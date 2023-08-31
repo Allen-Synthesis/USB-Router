@@ -9,7 +9,6 @@ There is a solder jumper on the rear of the USB Router which, if bridged with so
 This feature allows you to use the USB Router to power 5V devices, for example MIDI keyboards or lighting, or even to charge your phone.
 
 ### Potential Uses
-- Programming or updating [EuroPi](https://github.com/Allen-Synthesis/EuroPi) modules without needing to remove them from the rack
-- Prorgamming or updating other USB supporting modules, such as [Uncertainty](https://oamodular.org/products/uncertainty) by OA Modular
+- Programming or updating [EuroPi](https://github.com/Allen-Synthesis/EuroPi) modules or other USB supporting modules such as [Uncertainty](https://oamodular.org/products/uncertainty) by OA Modular, without needing to remove them from the rack
 - Powering a MIDI keyboard such as an Arturia Keystep
 - Configuring a MIDI keyboard, for example the Arturia Keystep without having to rearrange your whole setup
