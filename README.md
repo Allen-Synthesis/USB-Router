@@ -12,3 +12,8 @@ This feature allows you to use the USB Router to power 5V devices, for example M
 - Programming or updating [EuroPi](https://github.com/Allen-Synthesis/EuroPi) modules or other USB supporting modules such as [Uncertainty](https://oamodular.org/products/uncertainty) by OA Modular, without needing to remove them from the rack
 - Powering a MIDI keyboard such as an Arturia Keystep
 - Configuring a MIDI keyboard, for example the Arturia Keystep without having to rearrange your whole setup
+
+
+### LICENSES
+Hardware: [CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html)
+Documentation: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
