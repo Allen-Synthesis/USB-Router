@@ -15,5 +15,5 @@ This feature allows you to use the USB Router to power 5V devices, for example M
 
 
 ### LICENSES
-Hardware: [CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html)
+Hardware: [CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html)  
 Documentation: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
