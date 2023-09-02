@@ -1,7 +1,7 @@
 # USB Router
 ### A module to route a USB signal between the front and back of your Eurorack system with optional +5V rail power
 
-![_DSC40752](https://github.com/roryjamesallen/usb-router/assets/79809962/5c58ecf1-83e9-47d2-8efa-ea47aaac8705)
+![module in rack](images/in-rack.jpg)
 
 The USB Router features one USB-A socket on the front, and an identical USB-A socket on the back.  
 The power and data lines of the two sockets are always connected to each other, so you can always use the module for its most basic functions - programming Eurorack modules which feature USB connectors on the back.
