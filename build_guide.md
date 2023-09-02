@@ -6,7 +6,7 @@ Okay, warning out of the way, this is a pretty easy build, but because of the wa
 
 ### 1. Collect together all of the components in the [Bill of Materials](bom.md)
 
-![_DSC4078](https://github.com/roryjamesallen/usb-router/assets/79809962/7044e7f6-c5c7-419a-8efc-a28bd59c7e60)
+![all components](images/all-components.jpg)
 
 ### 2. Press the 16 pin shrouded Eurorack power header into place on the side of the PCB with a small marking that says "PWR1" and a marking at the end saying "RED STRIPE"
 
