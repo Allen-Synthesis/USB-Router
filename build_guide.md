@@ -58,7 +58,7 @@ Okay, warning out of the way, this is a pretty easy build, but because of the wa
 
 ![using an elastic band](images/bg-12.jpg)
 
-### 15. Now insert the lower 13mm standoff and screw it in, using two M3 screws, through both the front of the front panel, and the back of the PCB
+### 15. Now insert the lower 13mm standoff and screw it in, using two M3 screws, through both the front of the front panel, and the back of the PCB. *NOTE: If your PCB just reads 'usbr' and your standoff is M3, you will need to push the screw quite hard from the back as you turn. It is perfectly safe to do this, but it might require a little effort to get the screw to begin cutting its way through the hole. If your PCB reads 'usbr v2.0' then the hole is large enough that this isn't required*
 
 ![screwing in the standoff](images/bg-13.jpg)
 
@@ -70,7 +70,7 @@ Okay, warning out of the way, this is a pretty easy build, but because of the wa
 
 ![snipping the leads](images/bg-15.jpg)
 
-### 18. Finally screw in the upper 13mm standoff using two M3 screws through the front and back
+### 18. Finally screw in the upper 13mm standoff using two M3 screws through the front and back. Follow the advice in step 15 if your PCB reads 'usbr' instead of 'usbr v2.0' again
 
 ![screwing in the other standoff](images/bg-16.jpg)
 
