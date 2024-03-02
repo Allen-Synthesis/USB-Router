@@ -4,7 +4,7 @@ Okay, warning out of the way, this is a pretty easy build, but because of the wa
 
 # Assembly
 
-### 1. Collect together all of the components in the [Bill of Materials](bom.md)
+### 1. Collect together all of the components in the [Bill of Materials](bill_of_materials.md)
 
 ![all components](images/all-components.jpg)
 
