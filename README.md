@@ -1,5 +1,5 @@
 # USB Router
-### A module to route a USB signal between the front and back of your Eurorack system with optional +5V rail power
+### A module to route a USB signal between the front and back of your Eurorack system with optional +5V rail power. For sale at [allensynthesis.co.uk](https://allensynthesis.square.site/product/usb-router/22?cp=true&sa=false&sbp=false&q=false&category_id=7)
 
 ![module in rack](images/in-rack.jpg)
 
